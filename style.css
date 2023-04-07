@@ -1,0 +1,10 @@
+#camera {
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+body{
+    background: linear-gradient(90deg, rgba(255,193,244,1) 0%, rgba(170,246,255,1) 50%, rgba(218,173,255,1) 100%);
+}
+
